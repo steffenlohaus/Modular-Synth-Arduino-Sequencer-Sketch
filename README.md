@@ -1,4 +1,4 @@
-Arduino sketch for the sequencer in my drum machine project (modular synth). 
+Arduino sketch for the sequencer in my drum machine project (it's a modular synth 🤖).
 
-See https://www.instagram.com/bumm.bumm.garage/
+See a video demo, the schematic, the stripboard layout and the user manual on https://www.instagram.com/p/CGXFEG8herM/
 
